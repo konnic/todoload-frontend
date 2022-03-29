@@ -1,0 +1,6 @@
+{
+	"appId": "com.todoload.app",
+	"appName": "todoload",
+	"webDir": "dist/frontend",
+	"bundledWebRuntime": false
+}
